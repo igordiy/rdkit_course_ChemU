@@ -1,0 +1,90 @@
+
+Marvin  10310613082D          
+
+  6  6  0  0  0  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  3  2  0  0  0  0
+  5  2  1  0  0  0  0
+  6  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+CHEBI:16716
+
+> <NAME>
+benzene
+
+> <DEFINITION>
+A six-carbon aromatic annulene in which each carbon atom donates one of its two 2p electrons into a delocalised π system. A toxic, flammable liquid byproduct of coal distillation, it is used as an industrial solvent. Benzene is a carcinogen that also damages bone marrow and the central nervous system.
+
+> <STAR>
+3
+
+> <SECONDARY_ID>
+CHEBI:41187; CHEBI:3025; CHEBI:13876; CHEBI:22703
+
+> <SYNONYM>
+Pyrobenzole; Pyrobenzol; phenyl hydride; Phene; Mineral naphtha; cyclohexatriene; Coal naphtha; Bicarburet of hydrogen; benzole; Benzol; Benzine; benzene; benzene; BENZENE; Benzene; Benzen; [6]annulene
+
+> <IUPAC_NAME>
+benzene
+
+> <FORMULA>
+C6H6
+
+> <MASS>
+78.11184
+
+> <MONOISOTOPIC_MASS>
+78.04695
+
+> <CHARGE>
+0
+
+> <SMILES>
+c1ccccc1
+
+> <INCHI>
+InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H
+
+> <INCHIKEY>
+UHOVQNZJYSORNB-UHFFFAOYSA-N
+
+> <BEILSTEIN_REGISTRY_NUMBER>
+969212
+
+> <CAS_REGISTRY_NUMBER>
+71-43-2
+
+> <GMELIN_REGISTRY_NUMBER>
+1671
+
+> <REAXYS_REGISTRY_NUMBER>
+969212
+
+> <CHEMIDPLUS>
+71-43-2
+
+> <KEGG_COMPOUND_ACCESSION>
+C01407
+
+> <NIST_CHEMISTRY_WEBBOOK>
+71-43-2
+
+> <PDBECHEM_ACCESSION>
+BNZ
+
+> <WIKIPEDIA_ACCESSION>
+Benzene
+
+> <PUBMED_CITATION>
+11684179; 11993966; 12857942; 14677922; 15468289; 15935818; 16161967; 17373369; 18072742; 18407866; 18409691; 18836923; 19228219; 21325737; 23088855; 23222815; 23534829; 6353911; 8124204
+
+$$$$
